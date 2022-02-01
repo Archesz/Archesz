@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, Welcome! 👋
+I am Jovi, student of Applied and Computational Mathematics at the State University of Campinas (Unicamp)
 
 <div align="center">
   <a href="https://github.com/Archesz">
