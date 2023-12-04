@@ -1,5 +1,6 @@
 ### Hi, Welcome! 👋
-I am Jovi, student of Applied and Computational Mathematics at the State University of Campinas (Unicamp)
+I am Jovi, student of Applied and Computational Mathematics at the State University of Campinas (Unicamp).
+I'm a volunteer programming and mathematics teacher in Campinas, member of the MICLab (Medical Image Computing Lab) at Unicamp, I love technology, gadgets and art.
 
 <div align="center">
   <a href="https://github.com/Archesz">
